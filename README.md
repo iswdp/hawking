@@ -1,0 +1,1 @@
+This is a static webpage I created for the first code challenge on Free Code Camp.
